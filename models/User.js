@@ -3,10 +3,8 @@ const { Model, DataTypes } = require('sequelize');
 const bcrypt = require('bcrypt');
 const sequelize = require('../config/connection');
 
-// create a User model
 class User extends Model {}
 
-// create fields/columns for User model
 User.init(
   {
     id: {
