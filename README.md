@@ -70,7 +70,7 @@ This project is under no license
 
 ## Submission  
 [MVC-TechBlog repository](https://github.com/civ187/MVC_TechBlog)  
-[Video Walkthrough](https://drive.google.com/file/d/1uJyvwPQZnD-aUDEsId7j7f7pfPwXVXw9/view)  
+[Heroku Deployment](https://vcltechblog.herokuapp.com)  
 
 ## Questions:  
  Here is a link to my github:  
